@@ -9,7 +9,7 @@ It’s designed as an MVP to help e-commerce operators answer critical questions
 - Which customers are at risk of churning?
 - How are ads performing across platforms?
 
-The goal is to enable smarter marketing, increase customer lifetime value (LTV), and inform re-engagement campaigns — all powered by accessible data tools and AI
+The goal is to enable smarter marketing, increase customer lifetime value (LTV), and inform re-engagement campaigns — all powered by accessible data tools and predictive analytics.
 
 ## Features
 📊 Power BI Dashboard
@@ -29,9 +29,15 @@ The goal is to enable smarter marketing, increase customer lifetime value (LTV),
 ## Project Includes:
 1. README.md: Documentation and project guide
 2. FitFuel_Company_Supplement_Store.pbix: Fully interactive Power BI file
-3. churn_pipeline.ipynb: Jupyter notebook with churn prediction pipeline
-4. sample_orders.csv: Sample transaction data for demo/testing
-assets/: Visuals like dashboard screenshots and churn histograms
+3. ChurnModelingE-Commerce.ipynb: Jupyter notebook with churn prediction pipeline
+4. Predictive_Output.xlsx: churn prediction predictions output file from ChurnModelingE-Commerce 
+5. Ecommercedash.png: Image of FitFuel_Company_Supplement_Store.pbix
+
+Data:
+1. orders.csv: transaction data - Fact Table
+2. ads.csv: ad data - Fact Table
+3. customers.csv: Customers data - Dimension Table
+4. products.csv: Products data - Dimension Table
 
 ## Tech Stack
 - Microsoft Power BI
