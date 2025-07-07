@@ -32,6 +32,7 @@ The goal is to enable smarter marketing, increase customer lifetime value (LTV),
 3. ChurnModelingE-Commerce.ipynb: Jupyter notebook with churn prediction pipeline
 4. Predictive_Output.xlsx: churn prediction predictions output file from ChurnModelingE-Commerce 
 5. Ecommercedash.png: Image of FitFuel_Company_Supplement_Store.pbix
+6. ChurnPredictionsOutput.png: Image of Predictive_Output.xlsx
 
 Data:
 1. orders.csv: transaction data - Fact Table
@@ -49,3 +50,4 @@ Email: Jakelender@gmail.com
 
 ## Screenshots
 ![alt text](https://github.com/JacobLender/Ecommerce-Insights/blob/02d8d76439a9ef80aa0d2985a8a4681dee7e610f/Ecommercedash.png)
+![alt text](https://github.com/JacobLender/Ecommerce-Insights/blob/c1b704fd6007e3b7178a70515f1ea7e4d3cad71d/ChurnPredictionsOutput.png)
