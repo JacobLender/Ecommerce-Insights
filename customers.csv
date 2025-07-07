@@ -1,0 +1,501 @@
+CustomerID,SignupDate,Gender,Age,Location,AcquisitionChannel
+CUST001,2024-02-24,F,34,Phoenix,Referral
+CUST002,2023-10-15,M,39,Houston,Meta Ads
+CUST003,2022-08-16,F,44,Los Angeles,Instagram
+CUST004,2022-01-05,M,44,New York,Meta Ads
+CUST005,2024-04-30,F,23,Phoenix,Google Ads
+CUST006,2024-01-19,M,21,Los Angeles,Instagram
+CUST007,2022-07-23,M,58,Houston,Organic
+CUST008,2022-11-22,M,40,Houston,Meta Ads
+CUST009,2024-01-27,M,36,Los Angeles,Meta Ads
+CUST010,2023-01-13,M,24,Los Angeles,Instagram
+CUST011,2024-06-05,M,35,New York,Google Ads
+CUST012,2022-11-28,M,57,Los Angeles,Organic
+CUST013,2023-08-28,F,33,Los Angeles,Instagram
+CUST014,2022-08-04,M,53,New York,Instagram
+CUST015,2023-07-08,M,27,Houston,Instagram
+CUST016,2022-08-24,M,18,Houston,Referral
+CUST017,2023-01-01,F,55,Los Angeles,Meta Ads
+CUST018,2023-03-23,F,25,Houston,Google Ads
+CUST019,2022-09-14,M,58,Los Angeles,Organic
+CUST020,2024-12-16,M,52,Los Angeles,Instagram
+CUST021,2023-09-04,F,54,Phoenix,Google Ads
+CUST022,2023-06-27,M,31,Los Angeles,Referral
+CUST023,2023-03-01,M,51,Phoenix,Instagram
+CUST024,2022-12-11,F,18,Chicago,Instagram
+CUST025,2024-08-09,F,25,Los Angeles,Meta Ads
+CUST026,2023-03-10,M,46,Los Angeles,Referral
+CUST027,2024-11-04,M,30,Houston,Google Ads
+CUST028,2022-02-01,M,36,Phoenix,Instagram
+CUST029,2023-05-10,M,41,Houston,Meta Ads
+CUST030,2022-10-04,F,24,Chicago,Google Ads
+CUST031,2022-12-16,M,53,Phoenix,Google Ads
+CUST032,2023-05-03,F,57,Houston,Referral
+CUST033,2024-07-09,F,49,Los Angeles,Instagram
+CUST034,2024-04-29,F,47,Los Angeles,Referral
+CUST035,2023-07-21,M,49,Phoenix,Meta Ads
+CUST036,2023-06-04,F,46,Chicago,Google Ads
+CUST037,2024-11-07,F,56,Chicago,Meta Ads
+CUST038,2022-05-11,F,22,Phoenix,Referral
+CUST039,2024-05-29,F,23,Houston,Referral
+CUST040,2022-12-15,M,30,Phoenix,Instagram
+CUST041,2022-03-21,F,29,Los Angeles,Organic
+CUST042,2024-04-19,F,37,Houston,Google Ads
+CUST043,2023-04-30,F,55,Phoenix,Instagram
+CUST044,2023-10-29,F,44,Chicago,Referral
+CUST045,2023-06-10,M,44,Phoenix,Instagram
+CUST046,2024-07-18,F,54,Los Angeles,Instagram
+CUST047,2022-06-11,M,31,New York,Instagram
+CUST048,2022-11-29,M,23,New York,Instagram
+CUST049,2023-05-12,M,37,Houston,Instagram
+CUST050,2024-12-04,M,26,Houston,Google Ads
+CUST051,2022-07-07,M,51,New York,Google Ads
+CUST052,2024-07-24,M,30,New York,Organic
+CUST053,2024-04-04,F,26,New York,Referral
+CUST054,2024-01-17,M,33,New York,Instagram
+CUST055,2022-06-15,F,42,New York,Google Ads
+CUST056,2022-03-24,F,45,Chicago,Meta Ads
+CUST057,2024-01-19,F,20,Los Angeles,Organic
+CUST058,2023-06-21,M,43,Chicago,Referral
+CUST059,2022-01-29,M,46,Phoenix,Meta Ads
+CUST060,2024-02-01,M,33,Los Angeles,Organic
+CUST061,2022-07-13,M,28,New York,Organic
+CUST062,2022-02-09,M,50,Phoenix,Referral
+CUST063,2022-10-15,M,26,Phoenix,Organic
+CUST064,2023-12-12,M,25,Chicago,Referral
+CUST065,2022-08-30,M,32,Houston,Referral
+CUST066,2023-04-14,F,24,New York,Referral
+CUST067,2024-11-03,M,41,New York,Organic
+CUST068,2022-09-20,M,42,Los Angeles,Google Ads
+CUST069,2023-12-21,M,23,Los Angeles,Google Ads
+CUST070,2024-01-06,M,43,Chicago,Referral
+CUST071,2022-11-20,M,47,Chicago,Google Ads
+CUST072,2022-04-02,F,29,Chicago,Organic
+CUST073,2023-01-13,M,54,New York,Instagram
+CUST074,2024-07-28,M,25,New York,Meta Ads
+CUST075,2022-08-09,M,43,New York,Google Ads
+CUST076,2022-04-02,M,43,Phoenix,Instagram
+CUST077,2024-01-18,M,32,New York,Referral
+CUST078,2022-06-23,M,29,Houston,Organic
+CUST079,2022-08-13,M,19,Chicago,Referral
+CUST080,2024-07-20,F,57,Los Angeles,Organic
+CUST081,2022-02-03,F,46,Houston,Instagram
+CUST082,2024-08-23,F,42,Chicago,Instagram
+CUST083,2022-02-20,F,36,Los Angeles,Referral
+CUST084,2024-08-06,F,21,Houston,Meta Ads
+CUST085,2024-09-09,F,44,Phoenix,Meta Ads
+CUST086,2023-08-12,M,49,Los Angeles,Meta Ads
+CUST087,2023-01-12,F,18,Houston,Instagram
+CUST088,2022-07-20,M,51,Houston,Organic
+CUST089,2023-01-29,M,53,Chicago,Instagram
+CUST090,2024-11-04,M,56,Phoenix,Meta Ads
+CUST091,2023-12-16,M,24,Houston,Organic
+CUST092,2023-10-04,M,35,New York,Meta Ads
+CUST093,2024-05-18,F,33,Chicago,Organic
+CUST094,2023-04-20,F,22,Los Angeles,Meta Ads
+CUST095,2023-11-24,F,33,Chicago,Referral
+CUST096,2023-01-05,M,51,Houston,Google Ads
+CUST097,2022-03-12,F,48,Chicago,Google Ads
+CUST098,2022-12-24,M,19,Houston,Meta Ads
+CUST099,2023-03-19,F,35,Houston,Referral
+CUST100,2023-01-25,M,22,Los Angeles,Referral
+CUST101,2022-01-11,F,19,Phoenix,Instagram
+CUST102,2023-10-23,F,55,New York,Google Ads
+CUST103,2023-05-05,M,22,Los Angeles,Organic
+CUST104,2023-11-25,M,55,New York,Instagram
+CUST105,2022-08-11,F,24,Houston,Referral
+CUST106,2024-11-26,F,54,New York,Instagram
+CUST107,2022-05-07,F,50,Los Angeles,Instagram
+CUST108,2022-06-12,F,21,Phoenix,Referral
+CUST109,2022-10-02,M,44,Chicago,Referral
+CUST110,2024-05-11,M,27,New York,Instagram
+CUST111,2024-09-07,M,25,Chicago,Meta Ads
+CUST112,2024-09-24,F,29,Chicago,Meta Ads
+CUST113,2024-03-30,M,29,Chicago,Meta Ads
+CUST114,2024-08-03,F,53,Los Angeles,Meta Ads
+CUST115,2022-11-19,F,22,Houston,Instagram
+CUST116,2023-11-10,M,34,Chicago,Referral
+CUST117,2024-11-15,M,47,Los Angeles,Organic
+CUST118,2024-04-08,M,18,Houston,Google Ads
+CUST119,2023-08-09,M,38,Phoenix,Organic
+CUST120,2024-11-22,M,33,New York,Meta Ads
+CUST121,2024-12-18,M,44,Houston,Organic
+CUST122,2022-08-12,F,22,Chicago,Referral
+CUST123,2024-07-26,F,18,Los Angeles,Instagram
+CUST124,2023-08-05,M,19,New York,Meta Ads
+CUST125,2024-10-31,F,47,Chicago,Referral
+CUST126,2023-03-04,M,32,New York,Referral
+CUST127,2022-04-21,F,28,New York,Organic
+CUST128,2022-11-01,F,21,New York,Instagram
+CUST129,2023-08-29,F,45,Chicago,Meta Ads
+CUST130,2023-07-11,F,19,Houston,Meta Ads
+CUST131,2023-02-10,F,36,Chicago,Meta Ads
+CUST132,2022-11-17,F,47,New York,Referral
+CUST133,2024-11-26,M,27,Los Angeles,Meta Ads
+CUST134,2024-09-26,F,32,Los Angeles,Referral
+CUST135,2024-05-25,M,27,Houston,Organic
+CUST136,2023-09-25,M,39,Chicago,Organic
+CUST137,2024-12-04,F,59,New York,Referral
+CUST138,2023-09-02,M,43,New York,Meta Ads
+CUST139,2024-09-13,F,18,New York,Instagram
+CUST140,2023-04-17,M,57,Chicago,Referral
+CUST141,2023-09-10,F,47,Los Angeles,Google Ads
+CUST142,2024-12-18,M,32,Houston,Google Ads
+CUST143,2022-07-09,F,31,Houston,Instagram
+CUST144,2024-07-29,M,41,Phoenix,Referral
+CUST145,2022-09-23,M,46,Los Angeles,Google Ads
+CUST146,2024-12-17,M,24,Los Angeles,Instagram
+CUST147,2023-03-03,F,25,Phoenix,Organic
+CUST148,2023-09-03,F,26,Phoenix,Referral
+CUST149,2023-06-04,F,45,Houston,Google Ads
+CUST150,2024-03-11,M,49,New York,Meta Ads
+CUST151,2022-04-02,F,40,Chicago,Google Ads
+CUST152,2023-02-13,M,56,New York,Meta Ads
+CUST153,2023-04-22,M,44,New York,Organic
+CUST154,2024-10-26,M,56,Los Angeles,Instagram
+CUST155,2024-10-24,F,22,Houston,Meta Ads
+CUST156,2023-09-04,M,19,New York,Instagram
+CUST157,2022-05-21,M,36,Houston,Meta Ads
+CUST158,2022-12-06,F,40,Los Angeles,Referral
+CUST159,2023-08-20,F,52,Houston,Google Ads
+CUST160,2024-09-16,M,22,New York,Google Ads
+CUST161,2023-03-15,F,29,Chicago,Instagram
+CUST162,2022-03-06,F,30,Phoenix,Google Ads
+CUST163,2024-06-04,F,44,New York,Instagram
+CUST164,2022-11-04,M,35,Chicago,Instagram
+CUST165,2024-10-24,F,30,New York,Organic
+CUST166,2023-11-01,M,23,New York,Organic
+CUST167,2022-11-01,M,55,Phoenix,Meta Ads
+CUST168,2022-11-24,M,33,Chicago,Organic
+CUST169,2024-09-04,F,59,Houston,Referral
+CUST170,2024-04-08,F,54,Los Angeles,Organic
+CUST171,2024-12-20,F,44,Los Angeles,Instagram
+CUST172,2023-03-13,M,41,Los Angeles,Instagram
+CUST173,2023-02-15,M,40,Los Angeles,Referral
+CUST174,2024-07-18,M,57,Chicago,Referral
+CUST175,2022-09-14,M,35,Chicago,Organic
+CUST176,2023-01-24,M,57,New York,Referral
+CUST177,2023-03-10,M,52,New York,Instagram
+CUST178,2022-06-19,F,46,Houston,Google Ads
+CUST179,2024-09-27,M,24,Houston,Google Ads
+CUST180,2022-01-27,F,56,Chicago,Instagram
+CUST181,2024-07-11,M,28,New York,Google Ads
+CUST182,2024-12-01,M,59,Los Angeles,Instagram
+CUST183,2024-10-01,M,34,Chicago,Meta Ads
+CUST184,2022-04-01,M,46,Los Angeles,Google Ads
+CUST185,2022-09-04,M,35,Los Angeles,Organic
+CUST186,2024-06-08,M,30,Houston,Referral
+CUST187,2022-11-16,F,51,New York,Referral
+CUST188,2022-01-20,M,24,New York,Referral
+CUST189,2024-07-28,M,55,New York,Instagram
+CUST190,2024-05-31,F,23,New York,Instagram
+CUST191,2023-02-12,F,48,Los Angeles,Organic
+CUST192,2023-08-10,F,21,Phoenix,Organic
+CUST193,2022-07-28,M,55,Chicago,Meta Ads
+CUST194,2022-01-16,F,54,Chicago,Google Ads
+CUST195,2022-08-26,M,43,New York,Meta Ads
+CUST196,2022-08-13,F,40,Houston,Meta Ads
+CUST197,2022-05-01,F,21,Phoenix,Organic
+CUST198,2022-01-24,F,57,Phoenix,Referral
+CUST199,2022-07-15,M,27,Chicago,Referral
+CUST200,2023-12-11,F,19,Phoenix,Google Ads
+CUST201,2022-06-26,F,26,Chicago,Instagram
+CUST202,2023-10-22,M,32,Houston,Organic
+CUST203,2022-11-27,F,24,New York,Referral
+CUST204,2024-06-27,M,25,Phoenix,Instagram
+CUST205,2023-08-13,M,21,Los Angeles,Instagram
+CUST206,2024-02-01,M,36,Chicago,Instagram
+CUST207,2022-02-23,F,21,New York,Meta Ads
+CUST208,2022-10-27,M,58,Phoenix,Instagram
+CUST209,2022-06-13,M,25,Los Angeles,Google Ads
+CUST210,2022-11-07,M,45,Phoenix,Instagram
+CUST211,2023-02-18,M,33,Houston,Referral
+CUST212,2022-10-01,F,35,Los Angeles,Organic
+CUST213,2022-06-01,M,36,Chicago,Meta Ads
+CUST214,2024-06-23,M,31,Phoenix,Meta Ads
+CUST215,2024-06-18,F,44,Los Angeles,Instagram
+CUST216,2022-08-13,F,44,Houston,Google Ads
+CUST217,2023-07-28,M,36,Los Angeles,Meta Ads
+CUST218,2023-12-28,F,32,Chicago,Google Ads
+CUST219,2022-10-19,M,28,Chicago,Organic
+CUST220,2024-07-26,M,51,Houston,Instagram
+CUST221,2024-01-11,M,50,Houston,Meta Ads
+CUST222,2024-02-26,M,26,Los Angeles,Google Ads
+CUST223,2023-02-07,F,28,Houston,Referral
+CUST224,2023-07-06,M,56,Phoenix,Referral
+CUST225,2023-09-12,F,25,Phoenix,Meta Ads
+CUST226,2023-07-30,F,52,Los Angeles,Referral
+CUST227,2024-09-10,F,45,Los Angeles,Meta Ads
+CUST228,2023-06-23,M,52,Los Angeles,Instagram
+CUST229,2022-09-03,F,43,Houston,Instagram
+CUST230,2022-04-10,M,36,Houston,Google Ads
+CUST231,2023-11-04,M,41,New York,Meta Ads
+CUST232,2024-07-01,M,38,Chicago,Organic
+CUST233,2024-07-12,M,43,Chicago,Meta Ads
+CUST234,2022-02-05,F,51,Houston,Instagram
+CUST235,2022-09-01,M,30,Los Angeles,Referral
+CUST236,2023-09-27,M,24,New York,Instagram
+CUST237,2022-05-12,M,44,Phoenix,Organic
+CUST238,2022-11-11,F,28,Chicago,Meta Ads
+CUST239,2024-12-13,M,39,Houston,Organic
+CUST240,2024-10-26,M,19,New York,Referral
+CUST241,2022-01-11,F,23,Los Angeles,Organic
+CUST242,2022-04-02,M,44,New York,Instagram
+CUST243,2023-02-05,M,19,Los Angeles,Referral
+CUST244,2023-08-17,F,55,Chicago,Referral
+CUST245,2023-08-13,F,26,Los Angeles,Meta Ads
+CUST246,2023-12-29,F,54,Houston,Meta Ads
+CUST247,2024-07-18,F,19,Chicago,Referral
+CUST248,2023-12-01,M,28,Chicago,Meta Ads
+CUST249,2024-02-24,F,18,Los Angeles,Meta Ads
+CUST250,2022-06-03,M,29,Houston,Meta Ads
+CUST251,2024-05-13,M,22,Phoenix,Instagram
+CUST252,2022-02-19,M,36,Phoenix,Organic
+CUST253,2023-02-19,M,24,New York,Meta Ads
+CUST254,2023-03-25,M,52,Los Angeles,Meta Ads
+CUST255,2022-02-20,M,32,New York,Meta Ads
+CUST256,2022-01-30,M,19,Chicago,Instagram
+CUST257,2024-07-08,F,31,Chicago,Meta Ads
+CUST258,2023-05-09,M,52,Phoenix,Referral
+CUST259,2023-04-13,M,24,Houston,Google Ads
+CUST260,2024-11-05,F,40,Chicago,Meta Ads
+CUST261,2024-02-08,M,25,Chicago,Referral
+CUST262,2024-05-26,M,50,Phoenix,Referral
+CUST263,2024-05-25,M,59,Los Angeles,Google Ads
+CUST264,2024-05-21,M,41,Los Angeles,Referral
+CUST265,2024-05-03,F,44,Phoenix,Google Ads
+CUST266,2024-09-13,M,40,Los Angeles,Meta Ads
+CUST267,2023-10-29,F,18,Los Angeles,Organic
+CUST268,2024-02-27,M,22,Phoenix,Google Ads
+CUST269,2024-01-14,M,50,New York,Google Ads
+CUST270,2024-05-25,M,59,Houston,Meta Ads
+CUST271,2022-11-04,F,56,New York,Google Ads
+CUST272,2023-03-05,F,50,New York,Organic
+CUST273,2022-07-29,M,27,Chicago,Referral
+CUST274,2024-08-06,F,30,New York,Google Ads
+CUST275,2023-10-09,M,25,New York,Organic
+CUST276,2024-12-05,F,22,Houston,Google Ads
+CUST277,2022-06-09,F,52,Houston,Google Ads
+CUST278,2022-12-24,F,38,Los Angeles,Google Ads
+CUST279,2022-10-15,F,43,Phoenix,Google Ads
+CUST280,2023-06-19,M,27,Phoenix,Referral
+CUST281,2023-03-02,F,19,Houston,Organic
+CUST282,2022-06-29,F,48,Phoenix,Organic
+CUST283,2023-10-06,F,21,Phoenix,Meta Ads
+CUST284,2024-10-14,M,44,Houston,Referral
+CUST285,2022-05-10,M,48,Houston,Instagram
+CUST286,2022-08-12,M,55,Chicago,Instagram
+CUST287,2022-12-09,M,43,Los Angeles,Meta Ads
+CUST288,2024-02-20,F,33,New York,Instagram
+CUST289,2023-05-25,F,27,Los Angeles,Google Ads
+CUST290,2022-03-26,F,37,Phoenix,Google Ads
+CUST291,2023-12-25,F,40,Los Angeles,Meta Ads
+CUST292,2024-08-24,F,47,Los Angeles,Referral
+CUST293,2024-10-11,F,35,Phoenix,Meta Ads
+CUST294,2024-07-01,F,44,New York,Meta Ads
+CUST295,2023-10-31,F,43,Chicago,Google Ads
+CUST296,2023-05-25,F,22,Chicago,Google Ads
+CUST297,2024-08-16,M,37,Los Angeles,Referral
+CUST298,2022-04-02,F,48,New York,Referral
+CUST299,2024-02-14,M,52,Phoenix,Referral
+CUST300,2022-12-14,M,33,Phoenix,Instagram
+CUST301,2024-02-22,M,37,Los Angeles,Referral
+CUST302,2024-09-16,F,31,Los Angeles,Referral
+CUST303,2022-07-13,F,55,New York,Google Ads
+CUST304,2024-08-01,F,52,New York,Meta Ads
+CUST305,2022-03-14,M,40,New York,Referral
+CUST306,2023-10-20,M,49,New York,Instagram
+CUST307,2022-05-31,F,59,Phoenix,Meta Ads
+CUST308,2022-03-21,F,31,Los Angeles,Meta Ads
+CUST309,2023-09-11,M,28,Houston,Referral
+CUST310,2022-01-27,F,31,Los Angeles,Google Ads
+CUST311,2022-12-25,M,44,Phoenix,Google Ads
+CUST312,2023-11-19,M,51,Phoenix,Meta Ads
+CUST313,2022-06-26,M,46,Los Angeles,Instagram
+CUST314,2022-04-06,F,36,New York,Instagram
+CUST315,2022-06-04,F,37,New York,Referral
+CUST316,2022-04-12,F,23,New York,Google Ads
+CUST317,2022-01-01,F,56,Houston,Google Ads
+CUST318,2022-05-27,M,46,Houston,Google Ads
+CUST319,2023-06-13,M,49,New York,Referral
+CUST320,2022-04-10,F,29,Chicago,Instagram
+CUST321,2022-07-02,F,26,Houston,Meta Ads
+CUST322,2022-07-25,F,55,New York,Instagram
+CUST323,2024-10-22,F,38,New York,Meta Ads
+CUST324,2023-11-10,F,28,New York,Referral
+CUST325,2022-07-09,F,59,Chicago,Instagram
+CUST326,2022-06-04,M,36,Chicago,Google Ads
+CUST327,2023-10-17,F,18,New York,Organic
+CUST328,2023-03-22,F,18,Phoenix,Organic
+CUST329,2022-09-21,F,19,Houston,Instagram
+CUST330,2023-02-13,F,32,Houston,Referral
+CUST331,2024-02-23,M,42,Los Angeles,Referral
+CUST332,2023-08-30,F,30,Los Angeles,Google Ads
+CUST333,2023-07-23,M,23,Phoenix,Organic
+CUST334,2022-06-10,M,21,Los Angeles,Google Ads
+CUST335,2023-10-21,M,39,Houston,Organic
+CUST336,2024-11-12,F,18,Houston,Instagram
+CUST337,2023-06-13,M,58,Phoenix,Meta Ads
+CUST338,2022-04-11,M,46,New York,Referral
+CUST339,2024-07-14,F,38,Los Angeles,Referral
+CUST340,2024-02-12,M,21,Phoenix,Instagram
+CUST341,2023-12-15,M,39,Phoenix,Referral
+CUST342,2023-05-05,M,50,Houston,Meta Ads
+CUST343,2022-02-08,F,34,Los Angeles,Organic
+CUST344,2022-06-23,M,36,Houston,Google Ads
+CUST345,2023-12-29,F,35,Houston,Referral
+CUST346,2022-01-23,F,44,Houston,Instagram
+CUST347,2023-08-07,M,51,Houston,Meta Ads
+CUST348,2022-08-25,M,54,New York,Instagram
+CUST349,2022-02-12,F,46,Houston,Organic
+CUST350,2023-09-13,F,57,Los Angeles,Organic
+CUST351,2024-08-31,M,32,Chicago,Organic
+CUST352,2024-08-08,M,52,Los Angeles,Meta Ads
+CUST353,2022-12-11,M,25,Houston,Instagram
+CUST354,2024-12-15,F,26,Los Angeles,Instagram
+CUST355,2022-02-11,M,45,Los Angeles,Instagram
+CUST356,2022-04-15,M,29,Chicago,Organic
+CUST357,2023-02-26,M,25,Phoenix,Instagram
+CUST358,2022-03-03,F,23,Phoenix,Google Ads
+CUST359,2022-03-12,M,52,Phoenix,Meta Ads
+CUST360,2024-09-14,M,53,Los Angeles,Organic
+CUST361,2024-09-10,F,55,Chicago,Instagram
+CUST362,2024-09-18,M,58,Phoenix,Referral
+CUST363,2024-05-21,M,24,Houston,Organic
+CUST364,2024-02-22,F,58,Phoenix,Instagram
+CUST365,2024-08-04,F,47,Los Angeles,Meta Ads
+CUST366,2023-04-22,M,29,Houston,Organic
+CUST367,2022-08-14,M,26,New York,Meta Ads
+CUST368,2022-03-18,F,51,Chicago,Referral
+CUST369,2022-04-21,M,47,Phoenix,Referral
+CUST370,2023-10-03,F,24,Chicago,Meta Ads
+CUST371,2024-02-23,F,41,New York,Meta Ads
+CUST372,2024-12-04,F,24,Chicago,Organic
+CUST373,2022-09-25,F,21,Los Angeles,Instagram
+CUST374,2024-04-14,F,30,Los Angeles,Referral
+CUST375,2023-07-27,M,59,Phoenix,Instagram
+CUST376,2022-05-22,F,36,Los Angeles,Instagram
+CUST377,2022-09-15,M,23,Chicago,Instagram
+CUST378,2023-09-07,M,57,Houston,Google Ads
+CUST379,2024-07-27,M,57,Los Angeles,Meta Ads
+CUST380,2024-06-27,M,54,New York,Google Ads
+CUST381,2024-04-01,F,56,Chicago,Instagram
+CUST382,2022-09-10,M,38,Los Angeles,Meta Ads
+CUST383,2023-11-12,M,32,New York,Organic
+CUST384,2024-12-18,M,52,Phoenix,Referral
+CUST385,2024-10-08,F,35,Phoenix,Referral
+CUST386,2024-01-18,F,37,Houston,Meta Ads
+CUST387,2024-07-20,F,38,Phoenix,Google Ads
+CUST388,2022-01-19,F,53,Los Angeles,Organic
+CUST389,2022-04-04,M,41,Chicago,Google Ads
+CUST390,2023-04-10,M,53,Chicago,Instagram
+CUST391,2022-06-15,F,36,Los Angeles,Meta Ads
+CUST392,2024-01-01,F,34,Chicago,Organic
+CUST393,2022-03-01,F,46,Los Angeles,Meta Ads
+CUST394,2023-11-22,F,48,Houston,Referral
+CUST395,2024-11-20,M,45,Houston,Referral
+CUST396,2022-06-23,M,49,Los Angeles,Instagram
+CUST397,2023-03-06,F,23,Chicago,Google Ads
+CUST398,2023-04-08,M,36,Chicago,Organic
+CUST399,2023-05-02,F,53,Chicago,Instagram
+CUST400,2023-07-02,F,35,Los Angeles,Referral
+CUST401,2024-02-11,F,58,Chicago,Instagram
+CUST402,2024-03-15,M,25,Los Angeles,Meta Ads
+CUST403,2023-12-19,F,31,Houston,Instagram
+CUST404,2024-06-21,M,43,New York,Meta Ads
+CUST405,2024-07-17,M,37,Los Angeles,Referral
+CUST406,2023-03-04,M,54,Houston,Instagram
+CUST407,2022-02-12,M,22,New York,Instagram
+CUST408,2022-11-21,F,23,Houston,Google Ads
+CUST409,2024-10-26,F,31,New York,Organic
+CUST410,2024-07-31,F,45,Phoenix,Organic
+CUST411,2023-06-21,M,58,Houston,Referral
+CUST412,2024-09-25,F,57,Chicago,Instagram
+CUST413,2024-11-01,M,53,Chicago,Meta Ads
+CUST414,2024-05-19,M,31,Houston,Referral
+CUST415,2022-11-04,M,44,Houston,Referral
+CUST416,2024-11-29,M,59,Phoenix,Instagram
+CUST417,2024-12-02,F,57,Chicago,Organic
+CUST418,2023-03-04,M,45,Houston,Referral
+CUST419,2023-06-02,M,57,Houston,Meta Ads
+CUST420,2024-07-16,F,44,Los Angeles,Google Ads
+CUST421,2022-07-30,M,31,Chicago,Meta Ads
+CUST422,2022-07-14,F,44,Houston,Referral
+CUST423,2024-03-15,F,53,Chicago,Organic
+CUST424,2023-03-31,M,48,Houston,Meta Ads
+CUST425,2023-10-04,F,21,Phoenix,Referral
+CUST426,2023-08-05,M,54,Chicago,Meta Ads
+CUST427,2023-02-18,M,59,New York,Meta Ads
+CUST428,2024-08-15,F,58,Houston,Referral
+CUST429,2022-05-04,F,33,Phoenix,Meta Ads
+CUST430,2024-06-21,F,47,Chicago,Organic
+CUST431,2024-07-17,M,31,Phoenix,Google Ads
+CUST432,2024-06-21,M,48,Houston,Instagram
+CUST433,2024-07-13,M,31,Phoenix,Instagram
+CUST434,2024-05-08,M,35,Los Angeles,Referral
+CUST435,2023-05-16,M,54,Chicago,Referral
+CUST436,2022-05-29,M,26,New York,Organic
+CUST437,2024-07-24,F,33,Los Angeles,Google Ads
+CUST438,2022-10-06,F,52,Los Angeles,Instagram
+CUST439,2022-04-29,F,53,Los Angeles,Meta Ads
+CUST440,2024-03-27,F,27,Phoenix,Instagram
+CUST441,2024-04-07,F,51,Los Angeles,Google Ads
+CUST442,2023-02-22,F,19,Los Angeles,Instagram
+CUST443,2024-11-10,M,24,Phoenix,Google Ads
+CUST444,2023-03-22,F,42,Los Angeles,Organic
+CUST445,2022-11-26,F,34,Phoenix,Instagram
+CUST446,2022-06-16,M,55,Chicago,Organic
+CUST447,2022-11-13,F,29,Phoenix,Google Ads
+CUST448,2022-07-27,F,18,Los Angeles,Instagram
+CUST449,2024-01-31,F,21,Chicago,Meta Ads
+CUST450,2024-11-17,F,57,Los Angeles,Meta Ads
+CUST451,2024-04-19,M,52,Los Angeles,Organic
+CUST452,2024-06-12,F,59,Chicago,Referral
+CUST453,2024-12-17,M,35,Houston,Organic
+CUST454,2023-09-23,F,42,Houston,Organic
+CUST455,2024-03-05,F,52,Los Angeles,Meta Ads
+CUST456,2022-06-06,M,25,New York,Google Ads
+CUST457,2022-01-17,F,22,Phoenix,Google Ads
+CUST458,2023-09-22,F,54,Houston,Google Ads
+CUST459,2024-01-06,F,21,Chicago,Google Ads
+CUST460,2022-02-19,M,46,Chicago,Organic
+CUST461,2024-09-15,M,32,Houston,Organic
+CUST462,2022-12-31,F,45,Houston,Referral
+CUST463,2022-10-27,F,24,Chicago,Organic
+CUST464,2023-06-13,F,24,Phoenix,Instagram
+CUST465,2022-06-22,F,52,New York,Meta Ads
+CUST466,2023-08-06,F,19,Phoenix,Referral
+CUST467,2023-02-01,M,53,Los Angeles,Google Ads
+CUST468,2023-09-09,F,58,Houston,Google Ads
+CUST469,2024-05-22,M,54,Phoenix,Google Ads
+CUST470,2022-03-14,M,29,Houston,Meta Ads
+CUST471,2024-04-16,M,32,New York,Instagram
+CUST472,2023-07-15,F,21,Houston,Meta Ads
+CUST473,2022-11-12,M,18,Phoenix,Instagram
+CUST474,2024-01-22,F,38,Los Angeles,Organic
+CUST475,2023-12-22,M,22,Los Angeles,Organic
+CUST476,2024-02-14,F,36,New York,Meta Ads
+CUST477,2023-11-01,M,48,Chicago,Instagram
+CUST478,2023-01-09,F,29,Phoenix,Google Ads
+CUST479,2023-05-24,M,20,New York,Google Ads
+CUST480,2024-08-02,F,47,Houston,Referral
+CUST481,2022-09-18,M,29,Houston,Google Ads
+CUST482,2023-01-07,M,25,Phoenix,Instagram
+CUST483,2024-05-10,M,26,Houston,Instagram
+CUST484,2023-06-13,F,54,Houston,Meta Ads
+CUST485,2022-06-12,F,57,Houston,Organic
+CUST486,2022-10-23,F,33,Phoenix,Meta Ads
+CUST487,2024-03-16,M,34,Chicago,Google Ads
+CUST488,2022-06-08,F,35,New York,Referral
+CUST489,2023-01-29,M,28,Houston,Google Ads
+CUST490,2022-07-19,F,33,New York,Meta Ads
+CUST491,2023-11-13,M,36,Phoenix,Referral
+CUST492,2022-09-10,F,35,Phoenix,Meta Ads
+CUST493,2024-05-10,F,59,New York,Instagram
+CUST494,2022-12-06,M,25,New York,Instagram
+CUST495,2024-03-23,F,18,Phoenix,Referral
+CUST496,2022-08-23,F,23,Los Angeles,Google Ads
+CUST497,2024-07-18,F,48,New York,Google Ads
+CUST498,2024-10-04,M,35,Chicago,Organic
+CUST499,2024-06-06,M,45,Chicago,Organic
+CUST500,2024-12-27,M,39,Los Angeles,Meta Ads

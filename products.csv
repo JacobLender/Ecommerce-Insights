@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,Price,ReorderInterval
+PROD001,Whey Protein,Protein,29.73,32
+PROD002,Pre-Workout,Preworkout,29.68,26
+PROD003,Creatine,Supplement,45.84,47
+PROD004,BCAA,Supplement,53.8,29
+PROD005,Protein Bar,Snack,37.2,34
+PROD006,Omega-3,Supplement,54.59,20
+PROD007,Vitamins,Supplement,47.93,45
+PROD008,Pre/Post Workout,Supplement,51.05,58
+PROD009,Thermogenic,Supplement,50.53,26
+PROD010,Greens Powder,Supplement,32.34,59
