@@ -28,7 +28,7 @@ The goal is to enable smarter marketing, increase customer lifetime value (LTV),
 
 ## Project Includes:
 1. README.md: Documentation and project guide
-2. ecommerce_dashboard.pbix: Fully interactive Power BI file
+2. FitFuel_Company_Supplement_Store.pbix: Fully interactive Power BI file
 3. churn_pipeline.ipynb: Jupyter notebook with churn prediction pipeline
 4. sample_orders.csv: Sample transaction data for demo/testing
 assets/: Visuals like dashboard screenshots and churn histograms
