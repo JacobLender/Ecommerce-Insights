@@ -42,6 +42,4 @@ Website: https://www.jakelender.com
 Email: Jakelender@gmail.com
 
 ## Screenshots
-![alt text](https://github.com/JacobLender/Ecommerce-Insights/blob/fdb96e0d2efdb37bf348dacac38cac936868ea7c/Page_1.png)
-![alt text](https://github.com/JacobLender/Financial-Clarity/blob/fdb96e0d2efdb37bf348dacac38cac936868ea7c/Page_2.png)
-![alt text](https://github.com/JacobLender/Financial-Clarity/blob/fdb96e0d2efdb37bf348dacac38cac936868ea7c/Page_3.png)
+![alt text](https://github.com/JacobLender/Ecommerce-Insights/Ecommercedash.png)
